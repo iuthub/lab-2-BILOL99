@@ -1,0 +1,44 @@
+*{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+strong ,a {
+    color: red;
+}
+h1{
+    font-family: Georgia;
+    font-size: 30px;
+    color: cornflowerblue;
+    font-weight: 600;
+    font-style: italic;
+    text-shadow: 2px 2px 2px navy;
+
+}
+div.body{
+    background-color: gray;
+
+}
+p , ul, ol{
+    font-family: Verdana;
+    font-size: 18px;
+    color: #fff;
+    font-weight: 700;
+}
+div.img {
+    display: inline;
+   
+}
+ul li{
+    font-style: italic;
+    color: mintcream;
+}
+.name{
+    font-style: initial;
+    font-family: sans-serif;
+    font-size: 49px;
+    text-shadow: 2px 2px 2px #000;
+}
+ul {
+    /* list-style: none; */
+    margin: 6px;
+}
